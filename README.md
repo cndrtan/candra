@@ -1,2 +1,0 @@
-# candra
-belajar git
